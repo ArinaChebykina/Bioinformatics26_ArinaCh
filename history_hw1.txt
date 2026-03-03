@@ -1,0 +1,210 @@
+    1  cd ~
+    2  ls ../../
+    3  wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+    4  bash Miniconda3-latest-Linux-x86_64.sh
+    5  conda init
+    6  conda create bioinf_seminar_3
+    7  conda activate bioinf_seminar_3
+    8  conda create -n bioinf_seminar_3 python 3.9
+    9  conda activate bioinf_seminar_3
+   10  conda create -n bi_sem_3 python=3.11
+   11  conda activate bi_sem_3
+   12  `conda info --envs
+   13  conda info --envs
+   14  conda activate bi_sem_3
+   15  conda create -n bioinf_sem_3 python=3.11
+   16  conda install numpy=1.24 pandas=2.0
+   17  conda create -n bi_sem_3 python=3.11
+   18  conda activate bi_sem_3
+   19  conda install numpy=1.24 pandas=2.0
+   20  conda env export 
+   21  conda env export > C:\Users\HOM1\Downloads\bi_seminar_3\bi_seminar3.yml
+   22  conda env export
+   23  conda env export > "C:\Users\HOM1\Downloads\bi_seminar_3\bi_s3.yml"
+   24  conda env export > C:\\Users\\HOM1\\Downloads\\bi_seminar_3\\bi_s3.yml
+   25  conda env export > C:\Users\HOM1\Downloads\bi_seminar_3\bi_s3.yml
+   26  "conda env export > C:\\Users\\HOM1\\Downloads\\bi_seminar_3\\bi_s3.yml"
+   27  conda env export > "C:\\Users\\HOM1\\Downloads\\bi_seminar_3\\bi_s3.yml"
+   28  conda env export > /mnt/c/Users/HOM1/Downloads/bi_seminar_3/bi_s3.yml
+   29  python --version
+   30  numpy --versiom
+   31  numpy --version
+   32  conda list
+   33  conda list | grep numpy
+   34  conda activate environment
+   35  conda create -f conda env export > /mnt/c/Users/HOM1/Downloads/bi_seminar_3/environment.yml
+   36  conda create -f > /mnt/c/Users/HOM1/Downloads/bi_seminar_3/environment.yml
+   37  conda create -p > /mnt/c/Users/HOM1/Downloads/bi_seminar_3/environment.yml
+   38  cd /mnt/c/Users/HOM1/Downloads/bi_seminar_3
+   39  conda list
+   40  cd /mnt/c/Users/HOM1/Downloads/bi_seminar_3
+   41  conda env craete -f environment.yml
+   42  conda env create -f environment.yml --environment-spec environment.yml
+   43  conda create -f C:\Users\HOM1\Downloads\bi_seminar_3\environment.yml
+   44  conda create --force C:\Users\HOM1\Downloads\bi_seminar_3\environment.yml
+   45  conda create -f /mnt/c/Users/HOM1/Downloads/bi_seminar_3/environment.yml
+   46  conda create --force /mnt/c/Users/HOM1/Downloads/bi_seminar_3/environment.yml
+   47  conda env list
+   48  conda deactivate
+   49  conda create -f C:\Users\HOM1\Downloads\bi_seminar_3\environment.yml
+   50  conda create -f C:\Users\HOM1\Downloads\bi_seminar_3\environment.ymlconda create --force C:\Users\HOM1\Downloads\bi_seminar_3\environment.yml
+   51  conda create --force C:\Users\HOM1\Downloads\bi_seminar_3\environment.yml
+   52  conda create --force -f C:\Users\HOM1\Downloads\bi_seminar_3\environment.yml
+   53  ls
+   54  conda create -f environment.yml
+   55  conda create -f environment.yml -n new_env
+   56  conda create -f 
+   57  conda create -f  /mnt/c/Users/HOM1/Downloads/bi_seminar_3/environment.yml -n newwww
+   58  conda create -n newwww -f /mnt/c/Users/HOM1/Downloads/bi_seminar_3/environment.yml
+   59  conda config  --append channels conda-forge bioconda
+   60  conda create -n newwww -f /mnt/c/Users/HOM1/Downloads/bi_seminar_3/environment.yml
+   61  conda config --add channels conda-forge
+   62  conda create -n newwww -f /mnt/c/Users/HOM1/Downloads/bi_seminar_3/environment.yml
+   63  conda config --add channels bioconda
+   64  conda config --add channels https://packages.qiime2.org/qiime2/2024.10/amplicon/released
+   65  conda create -n newwww -f /mnt/c/Users/HOM1/Downloads/bi_seminar_3/environment.yml
+   66  conda create -f /mnt/c/Users/HOM1/Downloads/bi_seminar_3/environment.yml
+   67  conda env list
+   68  conda create -f /mnt/c/Users/HOM1/Downloads/bi_seminar_3/environment.yml -n new_1
+   69  conda create -f environment.yml -n new_2
+   70  conda config --remove channels https://packages.qiime2.org/qiime2/2024.10/amplicon/released
+   71  conda create -f environment.yml -n new_2
+   72  conda create -f environment.yml -n new_2conda create -f environment.yml -n new_2conda create -f environment.yml -n new_2
+   73  git clone https://github.com/ArinaChebykina/Bioinformatics26_ArinaCh.git
+   74  cd Bioinformatics26_ArinaCh
+   75  echo "Bioinf_2026_HW" > README.md
+   76  echo "Чебыкина Арина Б06-303" >> READDME.md
+   77  echo "Подготовка репозитория "
+   78  Создайте на GitHub новый пустой публичный репозиторий с названием bioinformatics_hw (или названием на ваш выбор).
+   79  Клонируйте этот репозиторий к себе на компьютер (в вашу домашнюю директорию Linux).
+   80  Перейдите в папку клонированного репозитория.
+   81  Создайте файл README.md с кратким описанием задания и вашей фамилией. Можете хоть скопировать это дз)
+   82  Сделайте первый коммит с сообщением Init и отправьте (push) его на GitHub.
+   83  echo "Подготовка репозитория. Создание файла README.md.Первый комит" >> README.md
+   84  cat README.md
+   85  echo "Чебыкина Арина Б06-303" >> README.md
+   86  cat README.md
+   87  rm README.md
+   88  cat README.md
+   89  echo "Bioinf_2026_HW" > README.md
+   90  echo "Чебыкина Арина Б06-303" >> README.md
+   91  echo "Подготовка репозитория. Создание файла README.md. Первый комит." >> README.md
+   92  cat README.md
+   93  git add README.md
+   94  git commit -m "Init"
+   95  git config user.name "ArinaCh"
+   96  git config user.email "chebykina.ae@phystech.edu"
+   97  git commit -m "Init"
+   98  git push origin main
+   99  cd Bioinformatics26_ArinaCh
+  100  cat README.md
+  101  git push origin main
+  102  nano
+  103  �history
+  104  rm README.md
+  105  cd Bioinformatics26_ArinaCh
+  106  rm README.md
+  107  cat README.md
+  108  mkdir -p linux_task/data/raw
+  109  cd linux_task/data/raw
+  110  touch sample1.tsv sample2.tsv sample3.tsv
+  111  echo -e "GeneID\tExpression_Value" > sample1.tsv
+  112  cat sample1.tsv
+  113  cd Bioinformatics26_ArinaCh
+  114  git reset --hard HEAD~1
+  115  rm README.md
+  116  git add README.md
+  117  cd Bioinformatics26_ArinaCh
+  118  git rm  README.md
+  119  git clone https://github.com/ArinaChebykina/Bioinformatics26_ArinaCh
+  120  cd Bioinformatics26_ArinaCh
+  121  echo "# Bioiformatics HW 2026" > README.md
+  122  echo "Чебыкина Арина Б06-303" >> README.md
+  123  echo 
+  124  echo -e "Задание 1: Подготовка репозитория\n-Создание репозитория\n-Создание файла README.md\n-Первый коммит" >> README.md 
+  125  cat README.md
+  126  git add README.md
+  127  git commit -m "Init"
+  128  git push origin main
+  129  git push --force origin main
+  130  nano README.md
+  131  mkdir -p linux_task/data/raw
+  132  cd linux_task/data/raw
+  133  touch sample1.tsv sample2.tsv sample3.tsv
+  134  echo -e "GeneID\tExpression_Value" > sample1.tsv
+  135  cat sample1.tsv
+  136  git add linux_task/
+  137  cd Bioinformatics26_ArinaCh
+  138  cd ../../..
+  139  git add linux_task/
+  140  git commit -m "Create raw data structure"
+  141  git push origin main
+  142  cd ~/Bioinformatics26_ArinaCh/bioinformatics_hw/linux_task/data/raw
+  143  cd ~/Bioinformatics26_ArinaCh/linux_task/data/raw
+  144  cat > sequencing_summary.txt << EOF
+run_id: RUN001
+date: 2026-02-18
+sample: sample1
+platform: Illumina
+read_length: 150
+total_reads: 1024
+sample: sample2
+total_reads: 2048
+sample: sample3
+
+�EOF
+EOF
+
+  145  rm sequencing_summary.txt
+  146  cat sequencing_summary.txt
+  147  cat > sequencing_summary.txt << EOF
+run_id: RUN001
+date: 2026-02-18
+sample: sample1
+platform: Illumina
+read_length: 150
+total_reads: 1024
+sample: sample2
+total_reads: 2048
+sample: sample3
+total_reads: 4096
+EOF
+
+  148  cat sequencing_summary.txt
+  149  grep "sample" sequencing_summary.txt > samples_list.txt
+  150  cat samples_list.txt
+  151  wc -l samples_list.txt
+  152  echo "Total samples found: 3" >> samples_list.txt
+  153  tail -5 samples_list.txt
+  154  cd ../../..
+  155  git add linux_task/data/raw/sequencing_summary.txt linux_task/data/raw/samples_list.txt
+  156  git commit -m "Add sample list and count"
+  157  git push origin main
+  158  git checkout -b git-practice
+  159  echo "This is very important data." > important_note.txt
+  160  git add important_note.txt
+  161  git commit -m "Add important note"
+  162  rm important_note.txt
+  163  ls -la important_note*
+  164  git status
+  165  git restore important_note.txt
+  166  cat important_note.txt
+  167  git status
+  168  echo "git restore important_note.txt" > git_command.txt
+  169  git add git_command.txt
+  170  git commit -m "Restore deleted file"
+  171  git push origin git-practice
+  172  history > hw1_history.txt
+  173  cat hw1_history.txt
+  174  history 53 > hw1_history.txt
+  175  cat hw1_history.txt
+  176  history 55 > hw1_commits_history.txt
+  177  cat hw1_commits_history.txt
+  178  git add hw1_history.txt
+  179  git commit -m "Add hw1 history"
+  180  git push origin main
+  181  git add hw1_history.txt
+  182  git commit -m "Add hw1 history"
+  183  git checkout main
+  184  git add hw1_history.txt
+  185  history > history_hw1.txt
