@@ -1,0 +1,8 @@
+genes <- c("BRCA1", "TP53", "EGFR")
+expression <- c(12.5, 45.2, 30.1)
+condition <- c("Control", "Treatment", "Treatment")
+exp_data <- data.frame(genes, expression, condition)
+str(exp_data)
+png("r_task/expression_plot.png", width=2000, height=1500, res = 300)
+barplot(exp_data$expression, names.arg = exp_data$genes, xlab = "Genes", ylab = "Expression level", main = "Уровни экспрессии генов")
+dev.off()
