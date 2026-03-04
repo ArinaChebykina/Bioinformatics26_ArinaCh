@@ -1,0 +1,78 @@
+  122  echo "Чебыкина Арина Б06-303" >> README.md
+  123  echo 
+  124  echo -e "Задание 1: Подготовка репозитория\n-Создание репозитория\n-Создание файла README.md\n-Первый коммит" >> README.md 
+  125  cat README.md
+  126  git add README.md
+  127  git commit -m "Init"
+  128  git push origin main
+  129  git push --force origin main
+  130  nano README.md
+  131  mkdir -p linux_task/data/raw
+  132  cd linux_task/data/raw
+  133  touch sample1.tsv sample2.tsv sample3.tsv
+  134  echo -e "GeneID\tExpression_Value" > sample1.tsv
+  135  cat sample1.tsv
+  136  git add linux_task/
+  137  cd Bioinformatics26_ArinaCh
+  138  cd ../../..
+  139  git add linux_task/
+  140  git commit -m "Create raw data structure"
+  141  git push origin main
+  142  cd ~/Bioinformatics26_ArinaCh/bioinformatics_hw/linux_task/data/raw
+  143  cd ~/Bioinformatics26_ArinaCh/linux_task/data/raw
+  144  cat > sequencing_summary.txt << EOF
+run_id: RUN001
+date: 2026-02-18
+sample: sample1
+platform: Illumina
+read_length: 150
+total_reads: 1024
+sample: sample2
+total_reads: 2048
+sample: sample3
+
+�EOF
+EOF
+
+  145  rm sequencing_summary.txt
+  146  cat sequencing_summary.txt
+  147  cat > sequencing_summary.txt << EOF
+run_id: RUN001
+date: 2026-02-18
+sample: sample1
+platform: Illumina
+read_length: 150
+total_reads: 1024
+sample: sample2
+total_reads: 2048
+sample: sample3
+total_reads: 4096
+EOF
+
+  148  cat sequencing_summary.txt
+  149  grep "sample" sequencing_summary.txt > samples_list.txt
+  150  cat samples_list.txt
+  151  wc -l samples_list.txt
+  152  echo "Total samples found: 3" >> samples_list.txt
+  153  tail -5 samples_list.txt
+  154  cd ../../..
+  155  git add linux_task/data/raw/sequencing_summary.txt linux_task/data/raw/samples_list.txt
+  156  git commit -m "Add sample list and count"
+  157  git push origin main
+  158  git checkout -b git-practice
+  159  echo "This is very important data." > important_note.txt
+  160  git add important_note.txt
+  161  git commit -m "Add important note"
+  162  rm important_note.txt
+  163  ls -la important_note*
+  164  git status
+  165  git restore important_note.txt
+  166  cat important_note.txt
+  167  git status
+  168  echo "git restore important_note.txt" > git_command.txt
+  169  git add git_command.txt
+  170  git commit -m "Restore deleted file"
+  171  git push origin git-practice
+  172  history > hw1_history.txt
+  173  cat hw1_history.txt
+  174  history 53 > hw1_history.txt
