@@ -1,0 +1,163 @@
+pos	gene	type	aa_change	effect	metal	product
+652452	dpiB	nonsynonymous	p.A73E	moderate	Cu	sensor histidine kinase DpiB
+652789	dpiB	synonymous	p.G185G	low	Cu	sensor histidine kinase DpiB
+652840	dpiB	synonymous	p.A202A	low	Cu	sensor histidine kinase DpiB
+652858	dpiB	synonymous	p.Q208Q	low	Cu	sensor histidine kinase DpiB
+653008	dpiB	synonymous	p.S258S	low	Cu	sensor histidine kinase DpiB
+653011	dpiB	synonymous	p.S259S	low	Cu	sensor histidine kinase DpiB
+653043	dpiB	nonsynonymous	p.V270A	moderate	Cu	sensor histidine kinase DpiB
+653110	dpiB	synonymous	p.A292A	low	Cu	sensor histidine kinase DpiB
+653140	dpiB	synonymous	p.N302N	low	Cu	sensor histidine kinase DpiB
+653194	dpiB	synonymous	p.R320R	low	Cu	sensor histidine kinase DpiB
+653860	dpiB	synonymous	p.P542P	low	Cu	sensor histidine kinase DpiB
+653924	dpiA	synonymous	p.A21A	low	Cu	DNA-binding transcriptional dual regulator DpiA
+653975	dpiA	synonymous	p.N38N	low	Cu	DNA-binding transcriptional dual regulator DpiA
+654296	dpiA	synonymous	p.A145A	low	Cu	DNA-binding transcriptional dual regulator DpiA
+654314	dpiA	synonymous	p.P151P	low	Cu	DNA-binding transcriptional dual regulator DpiA
+654317	dpiA	synonymous	p.K152K	low	Cu	DNA-binding transcriptional dual regulator DpiA
+654323	dpiA	synonymous	p.E154E	low	Cu	DNA-binding transcriptional dual regulator DpiA
+654326	dpiA	synonymous	p.L155L	low	Cu	DNA-binding transcriptional dual regulator DpiA
+654431	dpiA	synonymous	p.S190S	low	Cu	DNA-binding transcriptional dual regulator DpiA
+654518	dpiA	synonymous	p.P219P	low	Cu	DNA-binding transcriptional dual regulator DpiA
+656672	pagP	nonsynonymous	p.A39V	moderate	Cu	Lipid A palmitoyltransferase
+657039	pagP	synonymous	p.V161V	low	Cu	Lipid A palmitoyltransferase
+1176690	lolD	synonymous	p.V24V	low	Pb	lipoprotein release complex - ATP binding subunit
+1176714	lolD	synonymous	p.V32V	low	Pb	lipoprotein release complex - ATP binding subunit
+1176798	lolD	synonymous	p.T60T	low	Pb	lipoprotein release complex - ATP binding subunit
+1176819	lolD	synonymous	p.I67I	low	Pb	lipoprotein release complex - ATP binding subunit
+1176825	lolD	synonymous	p.N69N	low	Pb	lipoprotein release complex - ATP binding subunit
+1176831	lolD	synonymous	p.Q71Q	low	Pb	lipoprotein release complex - ATP binding subunit
+1176834	lolD	synonymous	p.P72P	low	Pb	lipoprotein release complex - ATP binding subunit
+1176849	lolD	synonymous	p.S77S	low	Pb	lipoprotein release complex - ATP binding subunit
+1176855	lolD	synonymous	p.A79A	low	Pb	lipoprotein release complex - ATP binding subunit
+1176864	lolD	synonymous	p.A82A	low	Pb	lipoprotein release complex - ATP binding subunit
+1176927	lolD	synonymous	p.T103T	low	Pb	lipoprotein release complex - ATP binding subunit
+1177026	lolD	nonsynonymous	p.D136E	moderate	Pb	lipoprotein release complex - ATP binding subunit
+1177101	lolD	synonymous	p.V161V	low	Pb	lipoprotein release complex - ATP binding subunit
+1177111	lolD	nonsynonymous	p.R165C	moderate	Pb	lipoprotein release complex - ATP binding subunit
+1177113	lolD	synonymous	p.R165R	low	Pb	lipoprotein release complex - ATP binding subunit
+1177161	lolD	synonymous	p.A181A	low	Pb	lipoprotein release complex - ATP binding subunit
+1177263	lolD	synonymous	p.Q215Q	low	Pb	lipoprotein release complex - ATP binding subunit
+1177264	lolD	synonymous	p.L216L	low	Pb	lipoprotein release complex - ATP binding subunit
+1177266	lolD	synonymous	p.L216L	low	Pb	lipoprotein release complex - ATP binding subunit
+1177269	lolD	synonymous	p.E217E	low	Pb	lipoprotein release complex - ATP binding subunit
+1272142	chaB	synonymous	p.D8D	low	Pb	putative cation transport regulator ChaB
+1982773	araH	synonymous	p.S256S	low	Cd	arabinose ABC transporter membrane subunit
+1982845	araH	synonymous	p.L232L	low	Cd	arabinose ABC transporter membrane subunit
+1982857	araH	synonymous	p.L228L	low	Cd	arabinose ABC transporter membrane subunit
+1982888	araH	nonsynonymous	p.L218R	moderate	Cd	arabinose ABC transporter membrane subunit
+1982914	araH	synonymous	p.G209G	low	Cd	arabinose ABC transporter membrane subunit
+1982944	araH	synonymous	p.A199A	low	Cd	arabinose ABC transporter membrane subunit
+1982959	araH	synonymous	p.L194L	low	Cd	arabinose ABC transporter membrane subunit
+1983091	araH	synonymous	p.T150T	low	Cd	arabinose ABC transporter membrane subunit
+1983135	araH	nonsynonymous	p.T136A	moderate	Cd	arabinose ABC transporter membrane subunit
+1983201	araH	nonsynonymous	p.P114S	moderate	Cd	arabinose ABC transporter membrane subunit
+1983205	araH	synonymous	p.V112V	low	Cd	arabinose ABC transporter membrane subunit
+1983210	araH	nonsynonymous	p.R111G	moderate	Cd	arabinose ABC transporter membrane subunit
+1983250	araH	synonymous	p.A97A	low	Cd	arabinose ABC transporter membrane subunit
+1983253	araH	nonsynonymous	p.I96M	moderate	Cd	arabinose ABC transporter membrane subunit
+1983280	araH	nonsynonymous	p.M87I	moderate	Cd	arabinose ABC transporter membrane subunit
+1983325	araH	synonymous	p.V72V	low	Cd	arabinose ABC transporter membrane subunit
+1983346	araH	synonymous	p.G65G	low	Cd	arabinose ABC transporter membrane subunit
+1983397	araH	synonymous	p.G48G	low	Cd	arabinose ABC transporter membrane subunit
+1983409	araH	synonymous	p.L44L	low	Cd	arabinose ABC transporter membrane subunit
+1983412	araH	synonymous	p.G43G	low	Cd	arabinose ABC transporter membrane subunit
+1983439	araH	synonymous	p.L34L	low	Cd	arabinose ABC transporter membrane subunit
+1983517	araH	synonymous	p.Q8Q	low	Cd	arabinose ABC transporter membrane subunit
+1983564	araG	synonymous	p.S502S	low	Cd	arabinose ABC transporter ATP binding subunit
+1983651	araG	synonymous	p.G473G	low	Cd	arabinose ABC transporter ATP binding subunit
+1983723	araG	nonsynonymous	p.Y449*	moderate	Cd	arabinose ABC transporter ATP binding subunit
+1983747	araG	synonymous	p.V441V	low	Cd	arabinose ABC transporter ATP binding subunit
+1983771	araG	nonsynonymous	p.F433L	moderate	Cd	arabinose ABC transporter ATP binding subunit
+1983864	araG	nonsynonymous	p.Y402*	moderate	Cd	arabinose ABC transporter ATP binding subunit
+1983879	araG	synonymous	p.P397P	low	Cd	arabinose ABC transporter ATP binding subunit
+1983891	araG	synonymous	p.G393G	low	Cd	arabinose ABC transporter ATP binding subunit
+1984029	araG	synonymous	p.A347A	low	Cd	arabinose ABC transporter ATP binding subunit
+1984287	araG	synonymous	p.I261I	low	Cd	arabinose ABC transporter ATP binding subunit
+1984431	araG	synonymous	p.A213A	low	Cd	arabinose ABC transporter ATP binding subunit
+1984485	araG	synonymous	p.G195G	low	Cd	arabinose ABC transporter ATP binding subunit
+1984539	araG	nonsynonymous	p.I177M	moderate	Cd	arabinose ABC transporter ATP binding subunit
+1984548	araG	synonymous	p.G174G	low	Cd	arabinose ABC transporter ATP binding subunit
+1984584	araG	synonymous	p.G162G	low	Cd	arabinose ABC transporter ATP binding subunit
+1984602	araG	synonymous	p.S156S	low	Cd	arabinose ABC transporter ATP binding subunit
+1984821	araG	synonymous	p.L83L	low	Cd	arabinose ABC transporter ATP binding subunit
+2298476	napB	nonsynonymous	p.S81R	moderate	Cd	periplasmic nitrate reductase cytochrome c550 protein
+2298593	napB	synonymous	p.D42D	low	Cd	periplasmic nitrate reductase cytochrome c550 protein
+3316377	nusA	synonymous	p.V384V	low	Cu	transcription termination/antitermination protein NusA
+3316402	nusA	nonsynonymous	p.E375D	moderate	Cu	transcription termination/antitermination protein NusA
+3316678	nusA	synonymous	p.P283P	low	Cu	transcription termination/antitermination protein NusA
+3316726	nusA	synonymous	p.P267P	low	Cu	transcription termination/antitermination protein NusA
+3316741	nusA	synonymous	p.K262K	low	Cu	transcription termination/antitermination protein NusA
+3316840	nusA	synonymous	p.G229G	low	Cu	transcription termination/antitermination protein NusA
+3316978	nusA	synonymous	p.L183L	low	Cu	transcription termination/antitermination protein NusA
+3317209	nusA	synonymous	p.E106E	low	Cu	transcription termination/antitermination protein NusA
+3317353	nusA	synonymous	p.G58G	low	Cu	transcription termination/antitermination protein NusA
+3840579	nepI	synonymous	p.A387A	low	Cr	purine ribonucleoside exporter
+3840623	nepI	synonymous	p.V373V	low	Cr	purine ribonucleoside exporter
+3840642	nepI	synonymous	p.L366L	low	Cr	purine ribonucleoside exporter
+3840650	nepI	synonymous	p.I364I	low	Cr	purine ribonucleoside exporter
+3840672	nepI	synonymous	p.L356L	low	Cr	purine ribonucleoside exporter
+3840675	nepI	synonymous	p.L355L	low	Cr	purine ribonucleoside exporter
+3840684	nepI	synonymous	p.M352M	low	Cr	purine ribonucleoside exporter
+3840699	nepI	synonymous	p.G347G	low	Cr	purine ribonucleoside exporter
+3840702	nepI	synonymous	p.I346I	low	Cr	purine ribonucleoside exporter
+3840714	nepI	synonymous	p.V342V	low	Cr	purine ribonucleoside exporter
+3840717	nepI	synonymous	p.A341A	low	Cr	purine ribonucleoside exporter
+3840720	nepI	synonymous	p.G340G	low	Cr	purine ribonucleoside exporter
+3840740	nepI	synonymous	p.T334T	low	Cr	purine ribonucleoside exporter
+3840741	nepI	synonymous	p.A333A	low	Cr	purine ribonucleoside exporter
+3840747	nepI	synonymous	p.V331V	low	Cr	purine ribonucleoside exporter
+3840765	nepI	synonymous	p.L325L	low	Cr	purine ribonucleoside exporter
+3840768	nepI	nonsynonymous	p.F324L	moderate	Cr	purine ribonucleoside exporter
+3840776	nepI	nonsynonymous	p.T322S	moderate	Cr	purine ribonucleoside exporter
+3840777	nepI	nonsynonymous	p.Q321H	moderate	Cr	purine ribonucleoside exporter
+3840780	nepI	synonymous	p.T320T	low	Cr	purine ribonucleoside exporter
+3840786	nepI	synonymous	p.Q318Q	low	Cr	purine ribonucleoside exporter
+3840789	nepI	synonymous	p.A317A	low	Cr	purine ribonucleoside exporter
+3840810	nepI	synonymous	p.V310V	low	Cr	purine ribonucleoside exporter
+3840813	nepI	synonymous	p.I309I	low	Cr	purine ribonucleoside exporter
+3840822	nepI	synonymous	p.A306A	low	Cr	purine ribonucleoside exporter
+3840842	nepI	nonsynonymous	p.S300A	moderate	Cr	purine ribonucleoside exporter
+3840854	nepI	synonymous	p.V296V	low	Cr	purine ribonucleoside exporter
+3840858	nepI	nonsynonymous	p.F294L	moderate	Cr	purine ribonucleoside exporter
+3840863	nepI	synonymous	p.A293A	low	Cr	purine ribonucleoside exporter
+3840864	nepI	nonsynonymous	p.N292K	moderate	Cr	purine ribonucleoside exporter
+3840867	nepI	synonymous	p.S291S	low	Cr	purine ribonucleoside exporter
+3840870	nepI	synonymous	p.F290F	low	Cr	purine ribonucleoside exporter
+3840872	nepI	nonsynonymous	p.F290L	moderate	Cr	purine ribonucleoside exporter
+3840873	nepI	nonsynonymous	p.S289R	moderate	Cr	purine ribonucleoside exporter
+3840879	nepI	synonymous	p.L287L	low	Cr	purine ribonucleoside exporter
+3840885	nepI	synonymous	p.I285I	low	Cr	purine ribonucleoside exporter
+3840900	nepI	synonymous	p.L280L	low	Cr	purine ribonucleoside exporter
+3840912	nepI	synonymous	p.L276L	low	Cr	purine ribonucleoside exporter
+3840918	nepI	synonymous	p.G274G	low	Cr	purine ribonucleoside exporter
+3840933	nepI	synonymous	p.S269S	low	Cr	purine ribonucleoside exporter
+3840936	nepI	synonymous	p.A268A	low	Cr	purine ribonucleoside exporter
+3840939	nepI	synonymous	p.S267S	low	Cr	purine ribonucleoside exporter
+3840941	nepI	nonsynonymous	p.S267P	moderate	Cr	purine ribonucleoside exporter
+3840965	nepI	nonsynonymous	p.P259A	moderate	Cr	purine ribonucleoside exporter
+3840975	nepI	synonymous	p.P255P	low	Cr	purine ribonucleoside exporter
+3840987	nepI	synonymous	p.S251S	low	Cr	purine ribonucleoside exporter
+3840990	nepI	synonymous	p.V250V	low	Cr	purine ribonucleoside exporter
+3841005	nepI	synonymous	p.V245V	low	Cr	purine ribonucleoside exporter
+3841006	nepI	nonsynonymous	p.V245G	moderate	Cr	purine ribonucleoside exporter
+3841017	nepI	synonymous	p.L241L	low	Cr	purine ribonucleoside exporter
+3841029	nepI	synonymous	p.A237A	low	Cr	purine ribonucleoside exporter
+3841035	nepI	synonymous	p.L235L	low	Cr	purine ribonucleoside exporter
+3841047	nepI	nonsynonymous	p.L231F	moderate	Cr	purine ribonucleoside exporter
+3841053	nepI	synonymous	p.E229E	low	Cr	purine ribonucleoside exporter
+3841056	nepI	synonymous	p.L228L	low	Cr	purine ribonucleoside exporter
+3841062	nepI	synonymous	p.G226G	low	Cr	purine ribonucleoside exporter
+3841080	nepI	nonsynonymous	p.N220K	moderate	Cr	purine ribonucleoside exporter
+3841089	nepI	synonymous	p.A217A	low	Cr	purine ribonucleoside exporter
+3841134	nepI	synonymous	p.P202P	low	Cr	purine ribonucleoside exporter
+3841140	nepI	synonymous	p.L200L	low	Cr	purine ribonucleoside exporter
+3841149	nepI	nonsynonymous	p.E197D	moderate	Cr	purine ribonucleoside exporter
+3841157	nepI	nonsynonymous	p.S195A	moderate	Cr	purine ribonucleoside exporter
+3841188	nepI	synonymous	p.Q184Q	low	Cr	purine ribonucleoside exporter
+3841195	nepI	nonsynonymous	p.P182R	moderate	Cr	purine ribonucleoside exporter
+3841247	nepI	nonsynonymous	p.F165I	moderate	Cr	purine ribonucleoside exporter
+3841497	nepI	synonymous	p.L81L	low	Cr	purine ribonucleoside exporter
+3841623	nepI	synonymous	p.I39I	low	Cr	purine ribonucleoside exporter
+3841656	nepI	synonymous	p.T28T	low	Cr	purine ribonucleoside exporter
+3915752	atpC	nonsynonymous	p.G74D	moderate	Cu	ATP synthase F1 complex subunit epsilon
