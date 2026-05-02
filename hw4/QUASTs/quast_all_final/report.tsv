@@ -1,0 +1,23 @@
+Assembly	Velvet_Original_k65	Velvet_Gentle_k65	SPAdes_Default	SPAdes_Careful	SPAdes_Final
+# contigs (>= 0 bp)	42	26	49	6	16
+# contigs (>= 1000 bp)	0	0	1	1	1
+# contigs (>= 5000 bp)	0	0	0	0	0
+# contigs (>= 10000 bp)	0	0	0	0	0
+# contigs (>= 25000 bp)	0	0	0	0	0
+# contigs (>= 50000 bp)	0	0	0	0	0
+Total length (>= 0 bp)	9872	8160	15064	4033	8739
+Total length (>= 1000 bp)	0	0	1069	1089	1089
+Total length (>= 5000 bp)	0	0	0	0	0
+Total length (>= 10000 bp)	0	0	0	0	0
+Total length (>= 25000 bp)	0	0	0	0	0
+Total length (>= 50000 bp)	0	0	0	0	0
+# contigs	2	3	10	4	8
+Largest contig	512	601	1069	1089	1089
+Total length	1021	1622	6944	3594	6183
+GC (%)	42.70	42.91	43.56	44.27	43.64
+N50	512	512	722	902	826
+N90	509	509	517	777	517
+auN	510.5	544.0	749.6	914.2	823.0
+L50	1	2	4	2	4
+L90	2	3	9	4	7
+# N's per 100 kbp	0.00	0.00	0.00	0.00	0.00

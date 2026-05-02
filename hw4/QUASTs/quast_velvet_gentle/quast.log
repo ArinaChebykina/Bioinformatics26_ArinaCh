@@ -1,0 +1,94 @@
+/home/STUDY/FBMF/studfbmf02_18/quast-5.3.0/quast.py /home/STUDY/FBMF/studfbmf02_18/hw4_velvet_assembly/results/velvet/k55/contigs.fa /home/STUDY/FBMF/studfbmf02_18/hw4_velvet_assembly/results/velvet/k65/contigs.fa /home/STUDY/FBMF/studfbmf02_18/hw4_velvet_assembly/results/velvet_gentle/k55/contigs.fa /home/STUDY/FBMF/studfbmf02_18/hw4_velvet_assembly/results/velvet_gentle/k65/contigs.fa /home/STUDY/FBMF/studfbmf02_18/hw4_velvet_assembly/results/velvet_gentle/k75/contigs.fa -o /home/STUDY/FBMF/studfbmf02_18/hw4_velvet_assembly/quast_velvet_gentle --labels Orig_k55,Orig_k65,Gentle_k55,Gentle_k65,Gentle_k75
+
+Version: 5.3.0, c3eb988a
+
+System information:
+  OS: Linux-5.14.0-611.47.1.el9_7.x86_64-x86_64-with-glibc2.34 (linux_64)
+  Python version: 3.13.9
+  CPUs number: 4
+
+Started: 2026-05-01 15:49:09
+
+Logging to /home/STUDY/FBMF/studfbmf02_18/hw4_velvet_assembly/quast_velvet_gentle/quast.log
+NOTICE: Maximum number of threads is set to 1 (use --threads option to set it manually)
+
+CWD: /home/STUDY/FBMF/studfbmf02_18
+Main parameters: 
+  MODE: default, threads: 1, min contig length: 500, min alignment length: 65, min alignment IDY: 95.0, \
+  ambiguity: one, min local misassembly length: 200, min extensive misassembly length: 1000
+
+Contigs:
+  Pre-processing...
+  1  /home/STUDY/FBMF/studfbmf02_18/hw4_velvet_assembly/results/velvet/k55/contigs.fa ==> Orig_k55
+  2  /home/STUDY/FBMF/studfbmf02_18/hw4_velvet_assembly/results/velvet/k65/contigs.fa ==> Orig_k65
+  3  /home/STUDY/FBMF/studfbmf02_18/hw4_velvet_assembly/results/velvet_gentle/k55/contigs.fa ==> Gentle_k55
+  4  /home/STUDY/FBMF/studfbmf02_18/hw4_velvet_assembly/results/velvet_gentle/k65/contigs.fa ==> Gentle_k65
+  5  /home/STUDY/FBMF/studfbmf02_18/hw4_velvet_assembly/results/velvet_gentle/k75/contigs.fa ==> Gentle_k75
+
+2026-05-01 15:49:10
+Running Basic statistics processor...
+  Contig files: 
+    1  Orig_k55
+    2  Orig_k65
+    3  Gentle_k55
+    4  Gentle_k65
+    5  Gentle_k75
+  Calculating N50 and L50...
+    1  Orig_k55, N50 = 593, L50 = 1, auN = 593.0, Total length = 593, GC % = 45.53, # N's per 100 kbp =  0.00
+    2  Orig_k65, N50 = 512, L50 = 1, auN = 510.5, Total length = 1021, GC % = 42.70, # N's per 100 kbp =  0.00
+    3  Gentle_k55, N50 = 593, L50 = 1, auN = 593.0, Total length = 593, GC % = 45.53, # N's per 100 kbp =  0.00
+    4  Gentle_k65, N50 = 512, L50 = 2, auN = 544.0, Total length = 1622, GC % = 42.91, # N's per 100 kbp =  0.00
+    5  Gentle_k75, N50 = 533, L50 = 3, auN = 601.4, Total length = 3519, GC % = 44.16, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/STUDY/FBMF/studfbmf02_18/hw4_velvet_assembly/quast_velvet_gentle/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/STUDY/FBMF/studfbmf02_18/hw4_velvet_assembly/quast_velvet_gentle/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/STUDY/FBMF/studfbmf02_18/hw4_velvet_assembly/quast_velvet_gentle/basic_stats/GC_content_plot.pdf
+  Drawing Orig_k55 GC content plot...
+    saved to /home/STUDY/FBMF/studfbmf02_18/hw4_velvet_assembly/quast_velvet_gentle/basic_stats/Orig_k55_GC_content_plot.pdf
+  Drawing Orig_k65 GC content plot...
+    saved to /home/STUDY/FBMF/studfbmf02_18/hw4_velvet_assembly/quast_velvet_gentle/basic_stats/Orig_k65_GC_content_plot.pdf
+  Drawing Gentle_k55 GC content plot...
+    saved to /home/STUDY/FBMF/studfbmf02_18/hw4_velvet_assembly/quast_velvet_gentle/basic_stats/Gentle_k55_GC_content_plot.pdf
+  Drawing Gentle_k65 GC content plot...
+    saved to /home/STUDY/FBMF/studfbmf02_18/hw4_velvet_assembly/quast_velvet_gentle/basic_stats/Gentle_k65_GC_content_plot.pdf
+  Drawing Gentle_k75 GC content plot...
+    saved to /home/STUDY/FBMF/studfbmf02_18/hw4_velvet_assembly/quast_velvet_gentle/basic_stats/Gentle_k75_GC_content_plot.pdf
+  Drawing Coverage histogram (bin size: 1x)...
+    saved to /home/STUDY/FBMF/studfbmf02_18/hw4_velvet_assembly/quast_velvet_gentle/basic_stats/coverage_histogram.pdf
+  Drawing Orig_k55 coverage histogram (bin size: 1x)...
+    saved to /home/STUDY/FBMF/studfbmf02_18/hw4_velvet_assembly/quast_velvet_gentle/basic_stats/Orig_k55_coverage_histogram.pdf
+  Drawing Orig_k65 coverage histogram (bin size: 31x)...
+    saved to /home/STUDY/FBMF/studfbmf02_18/hw4_velvet_assembly/quast_velvet_gentle/basic_stats/Orig_k65_coverage_histogram.pdf
+  Drawing Gentle_k55 coverage histogram (bin size: 1x)...
+    saved to /home/STUDY/FBMF/studfbmf02_18/hw4_velvet_assembly/quast_velvet_gentle/basic_stats/Gentle_k55_coverage_histogram.pdf
+  Drawing Gentle_k65 coverage histogram (bin size: 31x)...
+    saved to /home/STUDY/FBMF/studfbmf02_18/hw4_velvet_assembly/quast_velvet_gentle/basic_stats/Gentle_k65_coverage_histogram.pdf
+  Drawing Gentle_k75 coverage histogram (bin size: 63x)...
+    saved to /home/STUDY/FBMF/studfbmf02_18/hw4_velvet_assembly/quast_velvet_gentle/basic_stats/Gentle_k75_coverage_histogram.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2026-05-01 15:49:12
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating PDF with all tables and plots...
+  2 of 2: Creating Icarus viewers...
+Done
+
+2026-05-01 15:49:13
+RESULTS:
+  Text versions of total report are saved to /home/STUDY/FBMF/studfbmf02_18/hw4_velvet_assembly/quast_velvet_gentle/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/STUDY/FBMF/studfbmf02_18/hw4_velvet_assembly/quast_velvet_gentle/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /home/STUDY/FBMF/studfbmf02_18/hw4_velvet_assembly/quast_velvet_gentle/report.html
+  PDF version (tables and plots) is saved to /home/STUDY/FBMF/studfbmf02_18/hw4_velvet_assembly/quast_velvet_gentle/report.pdf
+  Icarus (contig browser) is saved to /home/STUDY/FBMF/studfbmf02_18/hw4_velvet_assembly/quast_velvet_gentle/icarus.html
+  Log is saved to /home/STUDY/FBMF/studfbmf02_18/hw4_velvet_assembly/quast_velvet_gentle/quast.log
+
+Finished: 2026-05-01 15:49:13
+Elapsed time: 0:00:03.589801
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

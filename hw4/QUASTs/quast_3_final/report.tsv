@@ -1,0 +1,23 @@
+Assembly	SPAdes_Default	SPAdes_Careful	SPAdes_Final
+# contigs (>= 0 bp)	49	6	16
+# contigs (>= 1000 bp)	1	1	1
+# contigs (>= 5000 bp)	0	0	0
+# contigs (>= 10000 bp)	0	0	0
+# contigs (>= 25000 bp)	0	0	0
+# contigs (>= 50000 bp)	0	0	0
+Total length (>= 0 bp)	15064	4033	8739
+Total length (>= 1000 bp)	1069	1089	1089
+Total length (>= 5000 bp)	0	0	0
+Total length (>= 10000 bp)	0	0	0
+Total length (>= 25000 bp)	0	0	0
+Total length (>= 50000 bp)	0	0	0
+# contigs	10	4	8
+Largest contig	1069	1089	1089
+Total length	6944	3594	6183
+GC (%)	43.56	44.27	43.64
+N50	722	902	826
+N90	517	777	517
+auN	749.6	914.2	823.0
+L50	4	2	4
+L90	9	4	7
+# N's per 100 kbp	0.00	0.00	0.00

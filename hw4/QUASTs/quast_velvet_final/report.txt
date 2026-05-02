@@ -1,0 +1,25 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                    Velvet_Original_k65  Velvet_Gentle_k65
+# contigs (>= 0 bp)         42                   26               
+# contigs (>= 1000 bp)      0                    0                
+# contigs (>= 5000 bp)      0                    0                
+# contigs (>= 10000 bp)     0                    0                
+# contigs (>= 25000 bp)     0                    0                
+# contigs (>= 50000 bp)     0                    0                
+Total length (>= 0 bp)      9872                 8160             
+Total length (>= 1000 bp)   0                    0                
+Total length (>= 5000 bp)   0                    0                
+Total length (>= 10000 bp)  0                    0                
+Total length (>= 25000 bp)  0                    0                
+Total length (>= 50000 bp)  0                    0                
+# contigs                   2                    3                
+Largest contig              512                  601              
+Total length                1021                 1622             
+GC (%)                      42.70                42.91            
+N50                         512                  512              
+N90                         509                  509              
+auN                         510.5                544.0            
+L50                         1                    2                
+L90                         2                    3                
+# N's per 100 kbp           0.00                 0.00             
